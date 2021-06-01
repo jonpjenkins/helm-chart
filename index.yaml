@@ -3,12 +3,22 @@ entries:
   helm-chart-demo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-05-26T22:10:43.036928996-05:00"
+    created: "2021-06-01T09:45:00.358645627-05:00"
     description: A Helm chart for Kubernetes
-    digest: f72c86b1398b91e61b52d2a844998c03f2a204c12667301b1bd9b7af2df0f927
+    digest: d6e45349947b1c23e86bb92819675a8c86751e23fbc7a42466d5ec0b2e27b344
     name: helm-chart-demo
     type: application
     urls:
-    - https://raw.githubusercontent.com/jonpjenkins/helm-chart/main/helm-chart-demo-0.1.0.tgz
+    - helm-chart-demo-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-06-01T09:45:00.358250208-05:00"
+    description: A Helm chart for Kubernetes
+    digest: b071389c7c6364e0be74c8c015e21fed979ff043c4d9b7c0822c3b809e5d9e34
+    name: helm-chart-demo
+    type: application
+    urls:
+    - helm-chart-demo-0.1.0.tgz
     version: 0.1.0
-generated: "2021-05-26T22:10:43.036475733-05:00"
+generated: "2021-06-01T09:45:00.357483283-05:00"
